@@ -1,0 +1,11 @@
+export const ORANGE = "#E4D387";
+export const GREY = "#b1c2d7";
+export const GREY_2 = "#959faa";
+export const LIGHT_GREY = "#f2f5fa";
+export const DARK_GREY = "#59626f";
+export const DARK_GREY_2 = "#6c7887";
+export const BROWN = "#986968";
+export const BLACK = "#2b343f";
+export const GREEN = "#73C5BE";
+export const RED = "#EE6D66";
+export const WHITE = "#FFF";
